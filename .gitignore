@@ -1,0 +1,11 @@
+*.pyc
+*.bak
+*.swp
+*.swo
+*~
+
+/data
+/env
+
+# Project exclude paths
+/venv/
